@@ -18,15 +18,15 @@ Steps for viewing circuit and simulation using above files
    
    Contact Information
 ===================================
-- ANKUR SAH 
+- ANKUR SAH, 
  M.tech Embedded Systems, NIT Jamshedpur
   ankursah5@gmail.com
-- KUNAL GHOSH 
+- KUNAL GHOSH, 
  Director, VSD Corp. Pvt. Ltd. 
   kunalpghosh@gmail.com
-- PHILIPP GÜHRING 
+- PHILIPP GÜHRING, 
 Software Architect at LibreSilicon Association
   pg@futureware.at
- - Dr. GAURAV TRIVEDI 
+ - Dr. GAURAV TRIVEDI, 
  Co-Principal Investigator, EICT Academy, IIT Guwahati
    
