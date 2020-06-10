@@ -16,7 +16,7 @@ Steps for viewing circuit and simulation using above files
 8. To extract spice netlist
    `Transfer -> Export SPICE Netlist -> Save` (save in .cir extension)
    
-   Contact Information
+Contact Information
 ===================================
 - ANKUR SAH, 
  M.tech Embedded Systems, NIT Jamshedpur
