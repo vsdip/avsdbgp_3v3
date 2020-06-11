@@ -10,8 +10,8 @@ Multisim™ software integrates industry-standard SPICE simulation with an inter
 ### Installing NI Multisim in Windows (Student Edition)
 
 -Go to [National Instruments](https://www.ni.com/en-in/shop/electronic-test-instrumentation/application-software-for-electronic-test-and-instrumentation-category/what-is-multisim.html) and click on STUDENT DOWNLOAD to download the student edition. 
--Unzip NI_Circuit_Design_Suite_14_1_Education.zip
--Click on setup.exe to install. 
+ - Unzip NI_Circuit_Design_Suite_14_1_Education.zip
+ - Click on setup.exe to install. 
 
 Steps for viewing circuit and simulation using above files
 ===================================
