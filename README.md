@@ -3,11 +3,11 @@ The project is about simulating Bandgap Reference circuit (BRG) and obtain its c
 
 *This project is now in its starting phase which involves working in Windows using Multisim* 
 
-##About Multisim
+## About Multisim
 
 Multisim™ software integrates industry-standard SPICE simulation with an interactive schematic environment to instantly visualize and analyze electronic circuit behavior developed by National Instruments.
 
-##Installing NI Multisim in Windows (Student Edition)
+### Installing NI Multisim in Windows (Student Edition)
 
 -Go to [National Instruments](https://www.ni.com/en-in/shop/electronic-test-instrumentation/application-software-for-electronic-test-and-instrumentation-category/what-is-multisim.html) and click on STUDENT DOWNLOAD to download the student edition. 
 -Unzip NI_Circuit_Design_Suite_14_1_Education.zip
