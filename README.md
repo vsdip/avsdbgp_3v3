@@ -1,19 +1,31 @@
-# Bandgap_Reference_files
-The project is about developing Bandgap Reference circuit (BRG) from opensource tools.
+# Bandgap Reference
+The project is about simulating Bandgap Reference circuit (BRG) and obtain its characteristics. 
+
+*This project is now in its starting phase which involves working in Windows using Multisim* 
+
+##About Multisim
+
+Multisim™ software integrates industry-standard SPICE simulation with an interactive schematic environment to instantly visualize and analyze electronic circuit behavior developed by National Instruments.
+
+##Installing NI Multisim in Windows (Student Edition)
+
+-Go to [National Instruments](https://www.ni.com/en-in/shop/electronic-test-instrumentation/application-software-for-electronic-test-and-instrumentation-category/what-is-multisim.html) and click on STUDENT DOWNLOAD to download the student edition. 
+-Unzip NI_Circuit_Design_Suite_14_1_Education.zip
+-Click on setup.exe to install. 
 
 Steps for viewing circuit and simulation using above files
 ===================================
-1. First install NI Multisim from NI website "https://www.ni.com/en-in/shop/electronic-test-instrumentation/application-software-for-electronic-test-and-instrumentation-category/what-is-multisim/multisim-education.html" and get student edition. 
-2. Then open NI Multisim 14.1 from start menu.
-3. Schematics are saved in .ms14 format.
-4. Download the BGR.ms14 file from this repository.
-5. To open this file go to
+
+1. Open NI Multisim 14.1 from start menu.
+   - Schematics are saved in .ms14 format.
+2. Download the BGR.ms14 file from this repository.
+3. To open this file go to
    `File -> Open -> choose schematic file BGR.ms14`
    The circuit will show up in the editor. 
-6. To change simulation parameters go to ` Simulate -> Analyses and simulation` and set parameters. 
-7. To directly run and see simulation results go to `Simulate -> Run `
+4. To change simulation parameters go to ` Simulate -> Analyses and simulation` and set parameters. 
+5. To directly run and see simulation results go to `Simulate -> Run `
    Outputs will be shown on simulation window.
-8. To extract spice netlist
+6. To extract spice netlist
    `Transfer -> Export SPICE Netlist -> Save` (save in .cir extension)
    
 Contact Information
