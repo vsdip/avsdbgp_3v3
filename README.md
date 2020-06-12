@@ -24,7 +24,7 @@ Steps for viewing circuit and simulation using above files
 1. Open NI Multisim 14.1 from start menu.
    - Schematics are saved in .ms14 format.
    
-  <img align ="right" src= "https://user-images.githubusercontent.com/66694233/84515901-b52a6280-acea-11ea-8c85-644a9c61ede5.jpg" width=" 200">
+  <img  src= "https://user-images.githubusercontent.com/66694233/84515901-b52a6280-acea-11ea-8c85-644a9c61ede5.jpg" width=" 200">
    
 2. Download the BGR.ms14 file from this repository.
 3. To open this file go to
