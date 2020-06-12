@@ -11,7 +11,7 @@ Multisim™ software integrates industry-standard SPICE simulation with an inter
 
 -Go to [National Instruments](https://www.ni.com/en-in/shop/electronic-test-instrumentation/application-software-for-electronic-test-and-instrumentation-category/what-is-multisim.html) and click on STUDENT DOWNLOAD to download the student edition. 
 
- <img align ="right" src= "https://user-images.githubusercontent.com/66694233/84512621-de94bf80-ace5-11ea-9255-2251304f2b67.jpg" width=" 200">
+ <img align ="right" src= "https://user-images.githubusercontent.com/66694233/84514942-70ea9280-ace9-11ea-8ffb-e7fc96b8942b.JPG" width=" 200">
  - Unzip NI_Circuit_Design_Suite_14_1_Education.zip
  - Click on setup.exe to install. 
 
