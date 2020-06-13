@@ -26,9 +26,10 @@ There is no Linux version available yet. To use Multisim in Linux, one can insta
 ```
 $  sudo apt-get install wine
 $  cd /tmp/
-$  wget http://ltspice.analog.com/software/LTspiceXVII.exe
-$  wine LTspiceXVII.exe
-$  rm LTSpiceXVII.exe
+$  wget http://download.ni.com/support/softlib/Core/Circuit_Design_Suite/14.1/14.1/NI_Circuit_Design_Suite_14_1_Education.zip
+$  unzip NI_Circuit_Design_Suite_14_1_Education.zip
+$  wine setup.exe
+$  rm Multisim.exe
 ```
 
 
