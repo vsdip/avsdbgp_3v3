@@ -3,6 +3,8 @@ The project is about simulating Bandgap Reference circuit (BRG) and obtain its c
 
 *This project is now in its starting phase which involves working in Windows using Multisim* 
 
+<img align="left" width="45" height="45" src=/Images/logo.png>
+
 ## About Multisim
 
 Multisim™ software integrates industry-standard SPICE simulation with an interactive schematic environment to instantly visualize and analyze electronic circuit behavior developed by National Instruments.
