@@ -20,7 +20,7 @@ Multisim™ software integrates industry-standard SPICE simulation with an inter
  - Unzip NI_Circuit_Design_Suite_14_1_Education.zip
  - Click on setup.exe to install. 
 
-# Installing NI Multisim in Linux
+#### Installing NI Multisim in Linux
 
 There is no Linux version available yet. To use Multisim in Linux, one can install Windows OS in virtual box or it can run using WINE in Ubuntu.
 ```
