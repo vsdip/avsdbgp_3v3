@@ -46,6 +46,8 @@ Steps for viewing circuit and simulation using above files
 3. To open this file go to
    `File -> Open -> choose schematic file BGR.ms14`
    The circuit will show up in the editor. 
+ <  src=/Images/circuit.JPG>
+   
 4. To change simulation parameters go to ` Simulate -> Analyses and simulation` and set parameters. 
 5. To directly run and see simulation results go to `Simulate -> Run `
    Outputs will be shown on simulation window.
