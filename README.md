@@ -32,12 +32,22 @@ There is no Linux version available yet. To use Multisim in Linux, one can insta
 
 #### Installation in Ubuntu 20.04
 
-
 If your system is 64 bit, enable 32 bit architecture (if you haven't already): 
 ```
 $ sudo dpkg --add-architecture i386 
 ```
-
+Download and add the repository key:
+```
+$ wget -O - https://dl.winehq.org/wine-builds/winehq.key | sudo apt-key add -
+```
+Add the repository for Ubuntu 20.04:
+```
+$ sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ focal main'
+```
+Update packages for stable version:
+```
+$ sudo apt install --install-recommends winehq-stable
+```
 
 
 
