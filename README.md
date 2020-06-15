@@ -32,16 +32,13 @@ There is no Linux version available yet. To use Multisim in Linux, one can insta
 
 #### Installation in Ubuntu 20.04
 
-```
-If your system is 64 bit, enable 32 bit architecture (if you haven't already): 
-$ sudo dpkg --add-architecture i386 
 
-$  cd /tmp/
-$  wget http://download.ni.com/support/softlib/Core/Circuit_Design_Suite/14.1/14.1/NI_Circuit_Design_Suite_14_1_Education.zip
-$  unzip NI_Circuit_Design_Suite_14_1_Education.zip
-$  wine setup.exe
-$  rm Multisim.exe
+If your system is 64 bit, enable 32 bit architecture (if you haven't already): 
 ```
+$ sudo dpkg --add-architecture i386 
+```
+
+
 
 
 
