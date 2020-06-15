@@ -20,17 +20,23 @@ Multisim™ software integrates industry-standard SPICE simulation with an inter
  - Unzip NI_Circuit_Design_Suite_14_1_Education.zip
  - Click on setup.exe to install. 
 
-#### Installing NI Multisim in Linux
+### Installing NI Multisim in Linux
 
 There is no Linux version available yet. To use Multisim in Linux, one can install Windows OS in virtual box or it can run using WINE in Ubuntu.
-```
+
+<img align="left" width="45" height="45" src=/Images/wine.png>
+#### Wine
+[Wine](https://www.winehq.org/) (originally an acronym for "Wine Is Not an Emulator") is a compatibility layer capable of running Windows applications on several POSIX-compliant operating systems, such as Linux, macOS, & BSD.
+
+#### Installation in Ubuntu 20.04
+`
 $  sudo apt-get install wine
 $  cd /tmp/
 $  wget http://download.ni.com/support/softlib/Core/Circuit_Design_Suite/14.1/14.1/NI_Circuit_Design_Suite_14_1_Education.zip
 $  unzip NI_Circuit_Design_Suite_14_1_Education.zip
 $  wine setup.exe
 $  rm Multisim.exe
-```
+`
 
 
 
