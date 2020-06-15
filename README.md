@@ -48,14 +48,22 @@ Update packages for stable version:
 ```
 $ sudo apt install --install-recommends winehq-stable
 ```
+### Multisim installation using WINE in Ubuntu 20.04
 
+-Go to [National Instruments](https://www.ni.com/en-in/shop/electronic-test-instrumentation/application-software-for-electronic-test-and-instrumentation-category/what-is-multisim.html) and click on STUDENT DOWNLOAD to download the student edition. 
+
+ - Unzip NI_Circuit_Design_Suite_14_1_Education.zip
+ 
+ - Right click on `setup.exe` and click on `Open with other application`.
+ - In the `Select Application` window, click on `Wine windows program loader` and click on `select`.
+ - Install the required files asked by wine and continue Multisim installation. 
 
 
 
 Steps for viewing circuit and simulation using above files
 ===================================
 
-1. Open NI Multisim 14.1 from start menu.
+1. Open NI Multisim 14.1 from start menu. (For ubuntu, find it under applications.)
    - Schematics are saved in .ms14 format.
      
 2. Download the BGR.ms14 file from this repository.
