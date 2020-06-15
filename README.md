@@ -31,7 +31,7 @@ There is no Linux version available yet. To use Multisim in Linux, one can insta
 [Wine](https://www.winehq.org/) (originally an acronym for "Wine Is Not an Emulator") is a compatibility layer capable of running Windows applications on several POSIX-compliant operating systems, such as Linux, macOS, & BSD.
 
 #### Installation in Ubuntu 20.04
-
+ - Open Terminal and type below commands. 
 If your system is 64 bit, enable 32 bit architecture (if you haven't already): 
 ```
 $ sudo dpkg --add-architecture i386 
@@ -57,7 +57,8 @@ $ sudo apt install --install-recommends winehq-stable
  - Right click on `setup.exe` and click on `Open with other application`.
  - In the `Select Application` window, click on `Wine windows program loader` and click on `select`.
  - Install the required files asked by wine and continue Multisim installation. 
-
+ - To install required windows dependencies for Multisim, open terminal and type
+   ` $ winetricks mdac28 jet40 dotnet46 `
 
 
 Steps for viewing circuit and simulation using above files
