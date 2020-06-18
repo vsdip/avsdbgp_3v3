@@ -78,7 +78,6 @@ $ sudo apt install --install-recommends winehq-stable
 
 
 ## Steps for viewing circuit and simulation using above files
-===================================
 
 1. Open NI Multisim 14.1 from start menu. (For ubuntu, find it under applications.)
    - Schematics are saved in .ms14 format.
