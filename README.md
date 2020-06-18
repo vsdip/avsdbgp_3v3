@@ -1,7 +1,23 @@
 # Bandgap Reference
 The project is about simulating Bandgap Reference circuit (BRG) and obtain its characteristics. 
 
-*This project is now in its starting phase which involves working in Windows using Multisim* 
+*This project is now in its starting phase which involves working in Windows using Multisim and Ngspice in Linux * 
+
+<img align="left" width="45" height="45" src=/Ngspice/logo.jpg>
+
+## About Ngspice
+
+[Ngspice](http://ngspice.sourceforge.net/devel.html) is the open source spice simulator for electric and electronic circuits. Ngspice is an open project, there is no closed group of developers.
+
+### Installing Ngspice in Ubuntu 20.04
+ - Open terminal.
+ - Type `sudo apt-get install ngspice` and press enter.
+ 
+### View simulation output in ngspice
+ - Download the `cir` file of BGR in Ngspice folder of this repository.
+ - Go to the downloaded folder.
+ - Right click and open terminal.
+ - Type `ngspice <filename>.cir` and press enter
 
 <img align="left" width="45" height="45" src=/Images/logo.png>
 
