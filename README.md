@@ -77,7 +77,7 @@ $ sudo apt install --install-recommends winehq-stable
    ` $ winetricks mdac28 jet40 dotnet46 `
 
 
-Steps for viewing circuit and simulation using above files
+##Steps for viewing circuit and simulation using above files
 ===================================
 
 1. Open NI Multisim 14.1 from start menu. (For ubuntu, find it under applications.)
