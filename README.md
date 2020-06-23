@@ -18,7 +18,7 @@ To get an basic idea about this IP, the working principle, basic implementation,
  - Type `sudo apt-get install ngspice` and press enter.
  
 #### Viewing simulation output in ngspice
- - Download the `cir` file of BGR in Ngspice folder of this repository.
+ - Download the `cir` files from this repository.
  - Go to the downloaded folder.
  - Right click and open terminal.
  - Type `ngspice <filename>.cir` and press enter
