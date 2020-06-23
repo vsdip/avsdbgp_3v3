@@ -56,6 +56,8 @@ To get an basic idea about this IP, the working principle, basic implementation,
   <img width="800" height="500" src="/Images/Outputs/4bgr_vc.JPG">
 </p>
 
+ - Voltage co-efficient of Vref at three different temperatures -40<sup>o</sup>C, 30<sup>o</sup>C and 100<sup>o</sup>C.
+
 ### Noise level at Vref terminal (expected 25uV rms)
  - replace `filename.cir` with `5bgr_noise.cir`
  
@@ -63,6 +65,7 @@ To get an basic idea about this IP, the working principle, basic implementation,
   <img width="800" height="500" src="/Images/Outputs/5bgr_noise.JPG">
 </p>
  
+  - onoise_total = 1.461129e-05 (Output noise voltage over the specified frequency range)
 
 <img align="left" width="45" height="45" src=/Images/logo.png>
 
