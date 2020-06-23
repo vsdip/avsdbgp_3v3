@@ -92,6 +92,8 @@ To get an basic idea about this IP, the working principle, basic implementation,
 
 ### Start-up Votage variation with time using ramp signal.
  
+ - replace `filename.cir` with `6bgr_startuptime1.cir`
+ 
 <img align ="right" src= "/Ngspice/Specifications from VSD/Startup Time Specifications.JPG" width=" 200">
 
 <p align="center">
