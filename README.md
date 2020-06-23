@@ -89,7 +89,6 @@ To get an basic idea about this IP, the working principle, basic implementation,
  
   - onoise_total = 1.461129e-05 (Output noise voltage over the specified frequency range)
 
-<img align="left" width="45" height="45" src=/Images/logo.png>
 
 ### Start-up Votage variation with time using ramp signal.
  
@@ -103,6 +102,7 @@ To get an basic idea about this IP, the working principle, basic implementation,
 
 Multisim™ software integrates industry-standard SPICE simulation with an interactive schematic environment to instantly visualize and analyze electronic circuit behavior developed by National Instruments.
 
+<img align="left" width="45" height="45" src=/Images/logo.png>
 
 ### Installing NI Multisim in Windows (Student Edition)
 
