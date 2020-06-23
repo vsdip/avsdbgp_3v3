@@ -4,12 +4,11 @@ The project is about simulating Bandgap Reference circuit (BRG) and obtain its c
 *This project is now in its starting phase which involves working in Windows using Multisim and Ngspice in Linux * 
 * Update: Multisim is discontinued, old content kept to maintain log*
 
-
-
 # About Bandgap Reference IP
 To get an basic idea about this IP, the working principle, basic implementation, applications and significance, kindly go thru [this](/Ngspice/Files/BGR.pdf)
 
 <img align="left" width="45" height="45" src=/Ngspice/logo.jpg>
+
 ## About Ngspice
 
 [Ngspice](http://ngspice.sourceforge.net/devel.html) is the open source spice simulator for electric and electronic circuits. Ngspice is an open project, there is no closed group of developers.
