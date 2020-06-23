@@ -49,7 +49,7 @@ To get an basic idea about this IP, the working principle, basic implementation,
   <img width="800" height="500" src="/Images/Outputs/3bgr_tc.JPG">
 </p>
 
- - Range of Temperature co-fficient - ( 34 to -108) uV/<sup>o</sup>C
+ - Range of Temperature co-efficient - ( 34 to -108) uV/<sup>o</sup>C
 ### Voltage Co-efficient of Vref vs VDD(2V to 4V) at Rload=100Mohms
  - replace `filename.cir` with `4bgr_vc.cir`
  
