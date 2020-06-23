@@ -91,6 +91,14 @@ To get an basic idea about this IP, the working principle, basic implementation,
 
 <img align="left" width="45" height="45" src=/Images/logo.png>
 
+### Start-up Votage variation with time using ramp signal.
+ 
+<img align ="right" src= "/Ngspice/Specifications from VSD/Startup Time Specifications.JPG" width=" 200">
+
+<p align="center">
+  <img width="800" height="500" src="/Images/Outputs/6bgr_startuptime1.JPG">
+</p>
+
 ## About Multisim
 
 Multisim™ software integrates industry-standard SPICE simulation with an interactive schematic environment to instantly visualize and analyze electronic circuit behavior developed by National Instruments.
