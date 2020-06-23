@@ -29,6 +29,9 @@ To get an basic idea about this IP, the working principle, basic implementation,
   ngspice filename.cir
   ```
  ### Plotting Vref vs Temperature (-40 to 140C) at Rload = 100Mohms
+ 
+ <img align ="right" src= "/Ngspice/Specifications from VSD/Temperature variation.JPG" width=" 200">
+ 
   - replace `filename.cir` with `1bgr_tv.cir`
   
    <p align="center">
