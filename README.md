@@ -35,7 +35,7 @@ To get an basic idea about this IP, the working principle, basic implementation,
   - replace `filename.cir` with `1bgr_tv.cir`
   
    <p align="center">
-  <img width="800" height="500" src="/Images/Outputs/1bgr_tv.JPG">
+  <img width="800" height="500" src="/Ngspice/Outputs/1bgr_tv.JPG">
 </p>
 
   - At temperature -40<sup>o</sup>C, Vref = 1.2835 V
@@ -49,7 +49,7 @@ To get an basic idea about this IP, the working principle, basic implementation,
   - replace `filename.cir` with `2bgr_vv.cir`
   
   <p align="center">
-  <img width="800" height="500" src="/Images/Outputs/2bgr_vv.JPG">
+  <img width="800" height="500" src="/Ngspice/Outputs/2bgr_vv.JPG">
 </p>
 
  - Vref at 2V Vdd= 1.1916V
@@ -62,7 +62,7 @@ To get an basic idea about this IP, the working principle, basic implementation,
  - replace `filename.cir` with `3bgr_tc.cir`
  
  <p align="center">
-  <img width="800" height="500" src="/Images/Outputs/3bgr_tc.JPG">
+  <img width="800" height="500" src="/Ngspice/Outputs/3bgr_tc.JPG">
 </p>
 
  - Range of Temperature co-efficient (approx)-> ( 34 to -108) uV/<sup>o</sup>C
@@ -74,7 +74,7 @@ To get an basic idea about this IP, the working principle, basic implementation,
  - replace `filename.cir` with `4bgr_vc.cir`
  
  <p align="center">
-  <img width="800" height="500" src="/Images/Outputs/4bgr_vc.JPG">
+  <img width="800" height="500" src="/Ngspice/Outputs/4bgr_vc.JPG">
 </p>
 
  - Voltage co-efficient of Vref at three different temperatures -40<sup>o</sup>C, 30<sup>o</sup>C and 100<sup>o</sup>C.
@@ -84,7 +84,7 @@ To get an basic idea about this IP, the working principle, basic implementation,
  - replace `filename.cir` with `5bgr_noise.cir`
  
  <p align="center">
-  <img width="800" height="500" src="/Images/Outputs/5bgr_noise.JPG">
+  <img width="800" height="500" src="/Ngspice/Outputs/5bgr_noise.JPG">
 </p>
  
   - onoise_total = 1.461129e-05 (Output noise voltage over the specified frequency range)
@@ -97,7 +97,7 @@ To get an basic idea about this IP, the working principle, basic implementation,
 <img align ="right" src= "/Ngspice/Specifications from VSD/Startup Time Specifications.JPG" width=" 200">
 
 <p align="center">
-  <img width="800" height="500" src="/Images/Outputs/6bgr_startuptime1.JPG">
+  <img width="800" height="500" src="/Ngspice/Outputs/6bgr_startuptime1.JPG">
 </p>
 
 ## About Multisim
