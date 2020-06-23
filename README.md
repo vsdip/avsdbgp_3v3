@@ -46,6 +46,9 @@ To get an basic idea about this IP, the working principle, basic implementation,
   <img width="800" height="500" src="/Images/Outputs/2bgr_vv.JPG">
 </p>
 
+ - Vref at 2V Vdd= 1.1916V
+ - Vref at 4V Vdd= 1.3335V
+
 ### Temperature Co-efficient of Vref vs Temperature (-40 to 140C) at Rload=100Mohms
  - replace `filename.cir` with `3bgr_tc.cir`
  
@@ -53,7 +56,7 @@ To get an basic idea about this IP, the working principle, basic implementation,
   <img width="800" height="500" src="/Images/Outputs/3bgr_tc.JPG">
 </p>
 
- - Range of Temperature co-efficient - ( 34 to -108) uV/<sup>o</sup>C
+ - Range of Temperature co-efficient (approx)-> ( 34 to -108) uV/<sup>o</sup>C
 ### Voltage Co-efficient of Vref vs VDD(2V to 4V) at Rload=100Mohms
  - replace `filename.cir` with `4bgr_vc.cir`
  
@@ -62,6 +65,7 @@ To get an basic idea about this IP, the working principle, basic implementation,
 </p>
 
  - Voltage co-efficient of Vref at three different temperatures -40<sup>o</sup>C, 30<sup>o</sup>C and 100<sup>o</sup>C.
+ - Range of Voltage Co-efficient-> (0.06 to 0.08)
 
 ### Noise level at Vref terminal (expected 25uV rms)
  - replace `filename.cir` with `5bgr_noise.cir`
