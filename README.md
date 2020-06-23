@@ -34,9 +34,11 @@ To get an basic idea about this IP, the working principle, basic implementation,
    <p align="center">
   <img width="800" height="500" src="/Images/Outputs/1bgr_tv.JPG">
 </p>
+
   - At temperature -40<sup>o</sup>C, Vref = 1.2835 V
   - At temperature 27<sup>o</sup>C, Vref = 1.2841 V
   - At temperature 140<sup>o</sup>C, Vref = 1.2816 V
+  
  ### Vref vs Vdd (2V to 4V) at Rload=100Mohms
   - replace `filename.cir` with `2bgr_vv.cir`
   
