@@ -43,6 +43,9 @@ To get an basic idea about this IP, the working principle, basic implementation,
   - At temperature 140<sup>o</sup>C, Vref = 1.2816 V
   
  ### Vref vs Vdd (2V to 4V) at Rload=100Mohms
+ 
+ <img align ="right" src= "/Ngspice/Specifications from VSD/Voltage variation.JPG" width=" 200">
+ 
   - replace `filename.cir` with `2bgr_vv.cir`
   
   <p align="center">
@@ -53,6 +56,9 @@ To get an basic idea about this IP, the working principle, basic implementation,
  - Vref at 4V Vdd= 1.3335V
 
 ### Temperature Co-efficient of Vref vs Temperature (-40 to 140C) at Rload=100Mohms
+
+ <img align ="right" src= "/Ngspice/Specifications from VSD/Temperature coefficient.JPG" width=" 200">
+
  - replace `filename.cir` with `3bgr_tc.cir`
  
  <p align="center">
@@ -60,7 +66,11 @@ To get an basic idea about this IP, the working principle, basic implementation,
 </p>
 
  - Range of Temperature co-efficient (approx)-> ( 34 to -108) uV/<sup>o</sup>C
-### Voltage Co-efficient of Vref vs VDD(2V to 4V) at Rload=100Mohms
+  
+### Voltage Co-efficient of Vref vs VDD(2V to 4V) at Rload=100Mohms 
+
+<img align ="right" src= "/Ngspice/Specifications from VSD/Voltage coefficient.JPG" width=" 200">
+
  - replace `filename.cir` with `4bgr_vc.cir`
  
  <p align="center">
