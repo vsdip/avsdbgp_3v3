@@ -22,9 +22,49 @@ To get an basic idea about this IP, the working principle, basic implementation,
  - Go to the downloaded folder.
  - Right click and open terminal.
  - Type `ngspice <filename>.cir` and press enter
+ 
+ ## Output Plots and Values obtained in Ngspice simulations
+  To run the `cir` files, migrate to the folder Cir containing `cir` files and write following command in terminal and press enter.
+  ```
+  ngspice filename.cir
+  ```
+ ### Plotting Vref vs Temperature (-40 to 140C) at Rload = 100Mohms
+  - replace `filename.cir` with `1bgr_tv.cir`
+  
+   <p align="center">
+  <img width="800" height="500" src="/Images/Outputs/1bgr_tv.JPG">
+</p>
+  
+ ### Vref vs Vdd (2V to 4V) at Rload=100Mohms
+  - replace `filename.cir` with `2bgr_vv.cir`
+  
+  <p align="center">
+  <img width="800" height="500" src="/Images/Outputs/2bgr_vv.JPG">
+</p>
+
+### Temperature Co-efficient of Vref vs Temperature (-40 to 140C) at Rload=100Mohms
+ - replace `filename.cir` with `3bgr_tc.cir`
+ 
+ <p align="center">
+  <img width="800" height="500" src="/Images/Outputs/3bgr_tc.JPG">
+</p>
+
+### Voltage Co-efficient of Vref vs VDD(2V to 4V) at Rload=100Mohms
+ - replace `filename.cir` with `4bgr_vc.cir`
+ 
+ <p align="center">
+  <img width="800" height="500" src="/Images/Outputs/4bgr_vc.JPG">
+</p>
+
+### Noise level at Vref terminal (expected 25uV rms)
+ - replace `filename.cir` with `5bgr_noise.cir`
+ 
+ <p align="center">
+  <img width="800" height="500" src="/Images/Outputs/5bgr_noise.JPG">
+</p>
+ 
 
 <img align="left" width="45" height="45" src=/Images/logo.png>
-
 
 ## About Multisim
 
