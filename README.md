@@ -23,6 +23,8 @@ To get an basic idea about this IP, the working principle, basic implementation,
  - Right click and open terminal.
  - Type `ngspice <filename>.cir` and press enter
  
+ # Pre-Layout simulations
+ 
  ## Output Plots and Values obtained in Ngspice simulations
   To run the `cir` files, migrate to the folder Cir containing `cir` files and write following command in terminal and press enter.
   ```
