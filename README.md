@@ -124,6 +124,16 @@ To get an basic idea about this IP, the working principle, basic implementation,
 
 <img align ="center" src= "/Layout_Images/res_spice.JPG" width=" 400">
 
+### Bipolar PNP
+
+<p align="center">
+  <img width="800" height="500" src="/Layout_Images/bjt.JPG">
+</p>
+
+#### Spice file
+
+<img align ="center" src= "/Layout_Images/bjt_spice.JPG" width=" 400">
+
 
 ## About Multisim
 
