@@ -102,6 +102,14 @@ To get an basic idea about this IP, the working principle, basic implementation,
   <img width="800" height="500" src="/Ngspice/Outputs/6bgr_startuptime1.JPG">
 </p>
 
+## Layouts and Spice
+
+### BGR without resistors and Bipolar
+
+<p align="center">
+  <img width="800" height="500" src="/Layout_Images/bgr.JPG">
+</p>
+
 ## About Multisim
 
 Multisim™ software integrates industry-standard SPICE simulation with an interactive schematic environment to instantly visualize and analyze electronic circuit behavior developed by National Instruments.
