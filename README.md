@@ -114,6 +114,12 @@ To get an basic idea about this IP, the working principle, basic implementation,
 
 <img align ="center" src= "/Layout_Images/bgr_spice.JPG" width=" 400">
 
+### Polyresistor 
+
+<p align="center">
+  <img width="800" height="500" src="/Layout_Images/res.JPG">
+</p>
+
 ## About Multisim
 
 Multisim™ software integrates industry-standard SPICE simulation with an interactive schematic environment to instantly visualize and analyze electronic circuit behavior developed by National Instruments.
