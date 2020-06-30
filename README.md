@@ -112,7 +112,7 @@ To get an basic idea about this IP, the working principle, basic implementation,
 
 #### Spice file
 
-<img align ="center" src= "/Layout_Images/bgr_spice.JPG" width=" 200">
+<img align ="center" src= "/Layout_Images/bgr_spice.JPG" width=" 400">
 
 ## About Multisim
 
