@@ -112,12 +112,11 @@ To get an basic idea about this IP, the working principle, basic implementation,
 
 ### Circuit
 
-<img align ="center" src= "/Layout_week2/Images/ckt.JPG" width=" 400">
+<p align="center">
+  <img width="800" height="500" src="/Layout_week2/Images/ckt.JPG">
+</p>
 
 
-#### Spice file
-
-<img align ="center" src= "/Layout_Images/bjt_spice.JPG" width=" 400">
 
 
 ## About Multisim
