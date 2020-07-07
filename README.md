@@ -104,31 +104,16 @@ To get an basic idea about this IP, the working principle, basic implementation,
 
 ## Layouts and Spice
 
-### BGR without resistors and Bipolar
+### BGR without Bipolar
 
 <p align="center">
-  <img width="800" height="500" src="/Layout_Images/bgr.JPG">
+  <img width="800" height="500" src="/Layout_week2/Images/layout.JPG">
 </p>
 
-#### Spice file
+### Circuit
 
-<img align ="center" src= "/Layout_Images/bgr_spice.JPG" width=" 400">
+<img align ="center" src= "/Layout_week2/Images/ckt.JPG" width=" 400">
 
-### Polyresistor 
-
-<p align="center">
-  <img width="800" height="500" src="/Layout_Images/res.JPG">
-</p>
-
-#### Spice file
-
-<img align ="center" src= "/Layout_Images/res_spice.JPG" width=" 400">
-
-### Bipolar PNP
-
-<p align="center">
-  <img width="800" height="500" src="/Layout_Images/bjt.JPG">
-</p>
 
 #### Spice file
 
