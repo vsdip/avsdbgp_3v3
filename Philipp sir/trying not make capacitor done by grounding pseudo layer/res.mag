@@ -1,0 +1,26 @@
+magic
+tech scmos
+timestamp 1593956470
+<< nsubstratencontact >>
+rect -52 10 -46 22
+rect -52 -14 -46 -2
+rect -39 -24 -16 -19
+<< rnwell >>
+rect -46 10 65 22
+rect 53 -2 65 10
+rect -46 -14 65 -2
+<< pseudo_nwr >>
+rect -53 22 66 23
+rect -53 10 -52 22
+rect -53 -2 53 10
+rect -53 -14 -52 -2
+rect 65 -14 66 22
+rect -53 -19 66 -14
+rect -53 -24 -39 -19
+rect -16 -24 66 -19
+rect -53 -26 66 -24
+<< labels >>
+rlabel nsubstratencontact -49 12 -49 12 3 a
+rlabel nsubstratencontact -49 -5 -49 -5 3 b
+rlabel nsubstratencontact -34 -21 -34 -21 1 gnd
+<< end >>
