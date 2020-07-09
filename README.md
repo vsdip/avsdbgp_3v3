@@ -71,7 +71,7 @@ To get an basic idea about this **IP**, the working principle, basic implementat
 $  sudo apt-get install ngspice
 ```
 
-<img align="left" width="45" height="45" src=/Postlayout/Logo/logo.jpg>
+<img align="left" width="45" height="45" src=/Postlayout/Logo/logo.JPG>
 
  ### 2. Magic
  
