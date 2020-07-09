@@ -18,10 +18,11 @@ To get an basic idea about this **IP**, the working principle, basic implementat
 To view the specifications, go through [this](https://github.com/ankursah5/avsdbgp_3v3/blob/master/Prelayout/Files/specs.md)
 
 
-
-
    
  ##  Future work and limitations
+ 
+ - The layout made using magic uses **osu018 tech files**. These are relatively new and **don't support old Bipolar devices**. Thus layouts were made **without** bipolar PNP. 
+ - The futurework involves working on Magic and its tech files to include a Bipolar definition in it. 
  
  # IP usage
  
