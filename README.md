@@ -9,6 +9,10 @@ To get an basic idea about this IP, the working principle, basic implementation,
   <img width="800" height="500" src="/Images/Circuit_and_Specs/Symbol.JPG">
 </p>
 
+<p align="center">
+  <img width="800" height="500" src="/Ngspice/Outputs/3bgr_tc.JPG">
+</p>
+
 
 ## Parameters
 
@@ -17,23 +21,23 @@ To get an basic idea about this IP, the working principle, basic implementation,
 
 1. <p align="center">
   <img width="800" height="500" src="/Images/Circuit_and_Specs/tv.JPG">
-  </p>
+</p>
 
 2. <p align="center">
   <img width="800" height="500" src="/Images/Circuit_and_Specs/vv.JPG">
-   </p>
+ </p>
 
 3. <p align="center">
   <img width="800" height="500" src="/Images/Circuit_and_Specs/tc.JPG">
-  </p>
+</p>
 
 4. <p align="center">
   <img width="800" height="500" src="/Images/Circuit_and_Specs/vc.JPG">
-  </p>
+</p>
 
 5. <p align="center">
   <img width="800" height="500" src="/Images/Circuit_and_Specs/su.JPG">
-   </p>
+ </p>
    
    
    
