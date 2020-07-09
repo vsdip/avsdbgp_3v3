@@ -1,9 +1,3 @@
-# Datasheet
-The project is about simulating Bandgap Reference circuit (BRG) and obtain its characteristics. 
-
-*This project is now in its starting phase which involves working in Windows using Multisim and Ngspice in Linux * 
-* Update: Multisim is discontinued, old content kept to maintain log*
-
 # About avsd_bgr IP
 
 Avsd_bgr is a Bandgap Reference circuit, which is used to generate a constatnt voltage reference in analog domain which is independent of temperatarure and supply voltage variations. 
@@ -12,7 +6,7 @@ To get an basic idea about this IP, the working principle, basic implementation,
 ## Symbol and Pin descriptions
 
 <p align="center">
-  <img width="800" height="500" src="Images/Circuit and Specs/Symbol.JPG">
+  <img width="800" height="500" src="Images/Circuit_and_Specs/Symbol.JPG">
 </p>
 
 
