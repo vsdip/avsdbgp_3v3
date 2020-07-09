@@ -9,7 +9,7 @@ To get an basic idea about this **IP**, the working principle, basic implementat
 ## Symbol and Pin descriptions
 
 <p align="center">
-  <img width="800" height="600" src="/Images/Circuit_and_Specs/Symbol.jpg">
+  <img width="800" height="600" src="/Images/Circuit and Specs/symbol.jpg">
 </p>
 
 
