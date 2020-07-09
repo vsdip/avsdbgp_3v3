@@ -17,7 +17,11 @@ To get an basic idea about this **IP**, the working principle, basic implementat
 
 To view the specifications, go through [this](https://github.com/ankursah5/avsdbgp_3v3/blob/master/Prelayout/Files/specs.md)
 
+**Below is the compiled list of parameters according to specifications**
 
+<p align="center">
+  <img width="800" height="500" src="/Images/Circuit_and_Specs/specs.JPG">
+</p>
    
  ##  Future work and limitations
  
