@@ -20,7 +20,7 @@ To view the specifications, go through [this](https://github.com/ankursah5/avsdb
 **Below is the compiled list of parameters according to specifications**
 
 <p align="center">
-  <img width="800" height="500" src="/Images/Circuit_and_Specs/specs.JPG">
+  <img width="500" height="500" src="/Images/Circuit_and_Specs/specs.JPG">
 </p>
    
  ##  Future work and limitations
