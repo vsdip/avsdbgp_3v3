@@ -26,7 +26,7 @@ To view the specifications, go through [this](https://github.com/ankursah5/avsdb
  ##  Future work and limitations
  
  - The layout made using magic uses **osu018 tech files**. These are relatively new and **don't support old Bipolar devices**. Thus layouts were made **without** bipolar PNP. 
- - The futurework involves working on Magic and its tech files to include a Bipolar definition in it. 
+ - The futurework involves working on Magic layout tool and its tech files to include a Bipolar definition in it that is compatible with osu018 tech. 
  
  # IP usage
  
@@ -134,7 +134,7 @@ ngspice 1 -> source 5bgr_su.cir
 
 ##  Post-Layout simulations
 
-- To view the **layout**, type the following comand,
+- To view the **layout**, type the following comand in continuation with pre-layout simulations,
 
 ```
 ngspice 1 -> exit
