@@ -1,13 +1,51 @@
-# Bandgap Reference
+# Datasheet
 The project is about simulating Bandgap Reference circuit (BRG) and obtain its characteristics. 
 
 *This project is now in its starting phase which involves working in Windows using Multisim and Ngspice in Linux * 
 * Update: Multisim is discontinued, old content kept to maintain log*
 
-# About Bandgap Reference IP
-To get an basic idea about this IP, the working principle, basic implementation, applications and significance, kindly go thru [this](/Ngspice/Files/BGR.pdf)
+# About avsd_bgr IP
 
-<img align="left" width="45" height="45" src=/Ngspice/logo.jpg>
+Avsd_bgr is a Bandgap Reference circuit, which is used to generate a constatnt voltage reference in analog domain which is independent of temperatarure and supply voltage variations. 
+To get an basic idea about this IP, the working principle, basic implementation, applications and significance, kindly go thru [this](/Prelayout/Files/BGR.pdf)
+
+## Symbol and Pin descriptions
+
+<p align="center">
+  <img width="800" height="500" src="Images/Circuit and Specs/Symbol.JPG">
+</p>
+
+
+## Parameters
+
+
+## Typical performance characteristics
+
+1. <p align="center">
+  <img width="800" height="500" src="Images/Circuit and Specs/tv.JPG">
+  </p>
+
+2. <p align="center">
+  <img width="800" height="500" src="Images/Circuit and Specs/vv.JPG">
+   </p>
+
+3. <p align="center">
+  <img width="800" height="500" src="Images/Circuit and Specs/tc.JPG">
+  </p>
+
+4. <p align="center">
+  <img width="800" height="500" src="Images/Circuit and Specs/vc.JPG">
+  </p>
+
+5. <p align="center">
+  <img width="800" height="500" src="Images/Circuit and Specs/su.JPG">
+   </p>
+   
+   
+   
+   
+  
+<img align="left" width="45" height="45" src=/Prelayout/Logo/logo.jpg>
 
 ## About Ngspice
 
