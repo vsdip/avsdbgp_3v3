@@ -180,7 +180,7 @@ $  magic -T osu018.tech bgr1.mag
   <img width="1000" height="500" src="/Postlayout/Mags/layout_img.JPG">
 </p>
 
- - **To run and view the post- layout waveforms, type the following commands after above steps in terminal.
+ - **To run and view the post- layout waveforms**, type the following commands after above steps in terminal.
 
  ```
 $  cd ..
