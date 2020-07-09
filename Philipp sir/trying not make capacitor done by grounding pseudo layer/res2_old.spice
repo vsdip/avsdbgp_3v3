@@ -1,6 +1,0 @@
-* SPICE3 file created from res.ext - technology: scmos
-
-.option scale=0.1u
-
-R0 b a nwellResistor w=12 l=222
-C0 a_n46_n14# w_n1073741817_n1073741817# 2.13fF **FLOATING
