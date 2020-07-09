@@ -88,16 +88,80 @@ $  ./configure
 $  sudo make
 $  sudo make install
 ```
+### Steps to clone this git repository in Unix based systems for simulating waveforms.
 
- 
- 
-#### Viewing simulation output in ngspice
- - Download the `cir` files from this repository.
- - Go to the downloaded folder.
- - Right click and open terminal.
- - Type `ngspice <filename>.cir` and press enter
- 
- # Pre-Layout simulations
+Open the terminal and type the following
+
+```
+$  sudo apt install -y git
+$  git clone https://github.com/ankursah5/avsd_bgr
+
+```
+##  Pre-Layout simulations
+
+- To run and view the waveforms, type the following commands after cloning in above step.
+
+ ```
+$  cd avsd_bgr/Prelayout/Cir/
+$  ngspice
+```
+- This opens ngspice shell.
+- **To plot Vref vs Temperature (-40 to 140C) at Rload = 100Mohms**, Type the following in Ngspice shell and press enter.
+
+```
+ngspice 1 -> source 1bgr_tv.cir
+```
+
+ <p align="center">
+  <img width="800" height="500" src="/Images/Pre_layout/tv.jpg">
+</p>
+
+- **To Plot Vref vs Vdd (2V to 4V) at Rload=100Mohms**, Type the following in Ngspice shell and press enter.
+
+```
+ngspice 1 -> source 2bgr_vv.cir
+```
+
+<p align="center">
+  <img width="800" height="500" src="/Images/Pre_layout/vv.jpg">
+</p>
+
+- **To plot Temperature Co-efficient of Vref vs Temperature (-40 to 125C) at Rload=100Mohms**,  Type the following in Ngspice shell and press enter.
+
+```
+ngspice 1 -> source 3bgr_tc.cir
+```
+
+<p align="center">
+  <img width="800" height="500" src="/Images/Pre_layout/tc.jpg">
+</p>
+
+
+- **To plot Voltage Co-efficient of Vref vs VDD(2.1V to 3.6V) at Rload=100Mohms**, Type the following in Ngspice shell and press enter.
+
+```
+ngspice 1 -> source 4bgr_vc.cir
+```
+
+<p align="center">
+  <img width="800" height="500" src="/Images/Pre_layout/vc.jpg">
+</p>
+
+- **To plot Start-up Votage variation with time using ramp signal**, Type the following in Ngspice shell and press enter.
+
+```
+ngspice 1 -> source 5bgr_su.cir
+```
+
+<p align="center">
+  <img width="800" height="500" src="/Images/Pre_layout/su.jpg">
+</p>
+
+
+
+
+
+
  
  ## Output Plots and Values obtained in Ngspice simulations
   To run the `cir` files, migrate to the folder Cir containing `cir` files and write following command in terminal and press enter.
