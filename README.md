@@ -6,7 +6,7 @@ To get an basic idea about this IP, the working principle, basic implementation,
 ## Symbol and Pin descriptions
 
 <p align="center">
-  <img width="800" height="500" src="/Images2/Circuit_and_Specs/Symbol.jpg">
+  <img width="800" height="600" src="/Images2/Circuit_and_Specs/Symbol.jpg">
 </p>
 
 
