@@ -54,17 +54,42 @@ To get an basic idea about this **IP**, the working principle, basic implementat
    
  ##  Future work and limitations
  
- IP  
-  
-<img align="left" width="45" height="45" src=/Prelayout/Logo/logo.jpg>
+ # IP usage
+ 
+ ## Tools needed to view and simulate this IP
+ 
+  <img align="left" width="45" height="45" src=/Prelayout/Logo/logo.jpg>
 
-## About Ngspice
+### 1. Ngspice
 
 [Ngspice](http://ngspice.sourceforge.net/devel.html) is the open source spice simulator for electric and electronic circuits. Ngspice is an open project, there is no closed group of developers.
 
 #### Installing Ngspice in Ubuntu 20.04
- - Open terminal.
- - Type `sudo apt-get install ngspice` and press enter.
+
+ Open the terminal and type the following to install Ngspice
+```
+$  sudo apt-get install ngspice
+```
+
+<img align="left" width="45" height="45" src=/Postlayout/Logo/logo.jpg>
+
+ ### 2. Magic
+ 
+ [Magic](http://opencircuitdesign.com/magic/) is a VLSI layout tool.
+ 
+#### Installing Magic in Ubuntu 20.04
+
+Open the terminal and type the following to install Magic
+```
+$  wget http://opencircuitdesign.com/magic/archive/magic-8.3.32.tgz
+$  tar xvfz magic-8.3.32.tgz
+$  cd magic-8.3.28
+$  ./configure
+$  sudo make
+$  sudo make install
+```
+
+ 
  
 #### Viewing simulation output in ngspice
  - Download the `cir` files from this repository.
