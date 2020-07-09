@@ -1,10 +1,10 @@
 # A glance at avsd_bgr IP
 
-Avsd_bgr is a Bandgap Reference circuit, which is used to generate a constant voltage reference in analog domain which is independent of temperatarure and supply voltage variations.
+**Avsd_bgr** is a Bandgap Reference circuit, which is used to generate a constant voltage reference in analog domain which is independent of temperatarure and supply voltage variations.
 
-The objective was to achieve some specifications using only open-source tools with the Flow/FreePDKs provided by VLSI Computer Architecture Research Group [(VLSIARCH](https://vlsiarch.ecen.okstate.edu/) at Oklahoma State University [(OSU)](https://go.okstate.edu/).  
+The objective was to achieve some specifications using only **open-source tools** with the Flow/FreePDKs provided by **VLSI Computer Architecture Research Group** [(**VLSIARCH**)](https://vlsiarch.ecen.okstate.edu/) at **Oklahoma State University** [(**OSU**)](https://go.okstate.edu/).  
 
-To get an basic idea about this IP, the working principle, basic implementation, applications and significance, kindly go thru [this](/Prelayout/Files/BGR.pdf)
+To get an basic idea about this **IP**, the working principle, basic implementation, applications and significance, kindly go thru [**this**](/Prelayout/Files/BGR.pdf)
 
 ## Symbol and Pin descriptions
 
