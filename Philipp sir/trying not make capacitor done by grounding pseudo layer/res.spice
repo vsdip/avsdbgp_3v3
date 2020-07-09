@@ -1,5 +1,0 @@
-* SPICE3 file created from res.ext - technology: scmos
-
-.option scale=0.1u
-
-R0 b a nwellResistor w=12 l=222
