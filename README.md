@@ -6,7 +6,7 @@ To get an basic idea about this IP, the working principle, basic implementation,
 ## Symbol and Pin descriptions
 
 <p align="center">
-  <img width="800" height="500" src="Images/Circuit_and_Specs/Symbol.JPG">
+  <img width="800" height="500" src="/Images/Circuit_and_Specs/Symbol.JPG">
 </p>
 
 
@@ -16,23 +16,23 @@ To get an basic idea about this IP, the working principle, basic implementation,
 ## Typical performance characteristics
 
 1. <p align="center">
-  <img width="800" height="500" src="Images/Circuit and Specs/tv.JPG">
+  <img width="800" height="500" src="/Images/Circuit_and_Specs/tv.JPG">
   </p>
 
 2. <p align="center">
-  <img width="800" height="500" src="Images/Circuit and Specs/vv.JPG">
+  <img width="800" height="500" src="/Images/Circuit_and_Specs/vv.JPG">
    </p>
 
 3. <p align="center">
-  <img width="800" height="500" src="Images/Circuit and Specs/tc.JPG">
+  <img width="800" height="500" src="/Images/Circuit_and_Specs/tc.JPG">
   </p>
 
 4. <p align="center">
-  <img width="800" height="500" src="Images/Circuit and Specs/vc.JPG">
+  <img width="800" height="500" src="/Images/Circuit_and_Specs/vc.JPG">
   </p>
 
 5. <p align="center">
-  <img width="800" height="500" src="Images/Circuit and Specs/su.JPG">
+  <img width="800" height="500" src="/Images/Circuit_and_Specs/su.JPG">
    </p>
    
    
