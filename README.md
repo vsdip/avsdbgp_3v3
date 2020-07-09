@@ -15,42 +15,11 @@ To get an basic idea about this **IP**, the working principle, basic implementat
 
 ## Parameters
 
-
-## Typical performance characteristics
-
-#### 1. 
-
-<p align="center">
-  <img width="800" height="500" src="/Images/Circuit_and_Specs/tv.jpg">
-</p>
+To view the specifications, go through [this](https://github.com/ankursah5/avsdbgp_3v3/blob/master/Prelayout/Files/specs.md)
 
 
-#### 2. 
-
-<p align="center">
-  <img width="800" height="500" src="/Images/Circuit_and_Specs/vv.jpg">
- </p>
-
-#### 3. 
-
-<p align="center">
-  <img width="800" height="500" src="/Images/Circuit_and_Specs/tc.jpg">
-</p>
 
 
-#### 4. 
-
-<p align="center">
-  <img width="800" height="500" src="/Images/Circuit_and_Specs/vc.jpg">
-</p>
-
-
-#### 5. 
-
-<p align="center">
-  <img width="800" height="500" src="/Images/Circuit_and_Specs/su.jpg">
- </p>
-   
    
  ##  Future work and limitations
  
