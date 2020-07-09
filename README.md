@@ -1,6 +1,6 @@
-# A glance at avsd_bgr IP
+# A glance at avsdbgp_3x3 IP
 
-**Avsd_bgr** is a Bandgap Reference circuit, which is used to generate a constant voltage reference in analog domain which is independent of temperatarure and supply voltage variations.
+**avsdbgp_3x3** is a Bandgap Reference circuit, which is used to generate a constant voltage reference in analog domain which is independent of temperatarure and supply voltage variations.
 
 The objective was to achieve some specifications using only **open-source tools** with the Flow/FreePDKs provided by **VLSI Computer Architecture Research Group** [(**VLSIARCH**)](https://vlsiarch.ecen.okstate.edu/) at **Oklahoma State University** [(**OSU**)](https://go.okstate.edu/).  
 
