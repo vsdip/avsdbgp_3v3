@@ -17,6 +17,8 @@ To get an basic idea about this **IP**, the working principle, basic implementat
 
 To view the specifications, go through [this](https://github.com/ankursah5/avsdbgp_3v3/blob/master/Prelayout/Files/specs.md)
 
+**Below is the compiled list of parameters according to specifications**
+
 | Parameter| Description| Min | Type | Max | Unit | Condition |
 | :---:  | :-: | :-: | :-: | :---:  | :-: | :-: |
 |RL|Load resistance| 100|||Mohm|T=-40 to 125C|
@@ -29,11 +31,6 @@ To view the specifications, go through [this](https://github.com/ankursah5/avsdb
 |VDD|Supply Voltage|2.1|3.3|3.6|V|T=-40C to 125C|
 
 
-**Below is the compiled list of parameters according to specifications**
-
-<p align="center">
-  <img width="650" height="500" src="/Images/Circuit_and_Specs/specs.JPG">
-</p>
    
  ##  Future work and limitations
  
