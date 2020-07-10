@@ -17,6 +17,18 @@ To get an basic idea about this **IP**, the working principle, basic implementat
 
 To view the specifications, go through [this](https://github.com/ankursah5/avsdbgp_3v3/blob/master/Prelayout/Files/specs.md)
 
+| Parameter| Description| Min | Type | Max | Unit | Condition |
+| :---:  | :-: | :-: | :-: | :---:  | :-: | :-: |
+|RL|Load resistance| 100|||Mohm|T=-40 to 125C|
+|CL|Load capacitance|||1|pF|T=40 to 85C|
+|Vbgp|Output Reference voltage|1.254 |1.28|1.286|V|T=-40 to 140C|
+|TC_Vbgp|Temperature Coefficient of Vbgp|588|5|23|ppm/C|T=-40 to 125C|
+|VC_Vbgp|Voltage Coefficient of Vbgp|0.065|0.07|0.078|V|V=2.1 to 6.6, T=-40 to 125C |
+|V_Noise|Noise at Vbgp Terminal||||uV rms|Vdd= 3.3V T=27C, f=0.1 to 10Khz|
+|T_start|Start up time| |||uS|Vdd=27c, T=27C, Cl=50pF|
+|VDD|Supply Voltage|2.1|3.3|3.6|V|T=-40C to 125C|
+
+
 **Below is the compiled list of parameters according to specifications**
 
 <p align="center">
