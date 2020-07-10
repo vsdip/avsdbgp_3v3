@@ -213,7 +213,9 @@ ngspice 1 -> source 5pl_su.spice
   <img width="800" height="500" src="/Images/Post_layout/5pl_su.JPG"">
 </p>
  
+## Author
 
+**Ankur Sah**
 
 Contact Information
 ===================================
