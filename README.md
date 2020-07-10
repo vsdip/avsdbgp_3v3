@@ -68,7 +68,7 @@ Open the terminal and type the following
 
 ```
 $  sudo apt install -y git
-$  git clone https://github.com/ankursah5/avsd_bgr
+$  git clone https://github.com/ankursah5/avsdbgp_3v3
 
 ```
 ##  Pre-Layout simulations
@@ -76,7 +76,7 @@ $  git clone https://github.com/ankursah5/avsd_bgr
 - To run and view the waveforms, type the following commands after cloning in above step.
 
  ```
-$  cd avsd_bgr/Prelayout/Cir/
+$  cd avsdbgp_3v3/Prelayout/Cir/
 $  ngspice
 ```
 - This opens ngspice shell.
