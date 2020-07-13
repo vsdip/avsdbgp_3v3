@@ -34,8 +34,10 @@ To view the specifications, go through [this](https://github.com/ankursah5/avsdb
    
  ##  Future work and limitations
  
- - The layout made using magic uses **osu018 tech files**. These are relatively new and **don't support old Bipolar devices**. Thus layouts were made **without** bipolar PNP. 
- - The futurework involves working on Magic layout tool and its tech files to include a Bipolar definition in it that is compatible with osu018 tech. 
+ - The reference voltage needs to needs to more accurate with specifications. 
+ - The post layout spice file has parasitic BJTs. Their origin shall be studied and tried to get rid off. 
+ - The Bipolar models are imported from LTspice.
+ - The futurework involves working/obtaining on a compatible **Bipolar** model with osu180nm tech, Which is not included in OSU libraries. 
  
  # IP usage
  
