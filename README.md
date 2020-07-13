@@ -167,7 +167,7 @@ $  magic -T osu018.tech bgr1.mag
 
  ```
 $  cd ..
-$  cd spice
+$  cd spice \files/
 $  ngspice
 ```
 - This opens ngspice shell.
