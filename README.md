@@ -155,12 +155,12 @@ ngspice 1 -> exit
 ```
 $  cd ..
 $  cd ..
-$  cd Postlayout/Mags
+$  cd Postlayout2/Mags
 $  magic -T osu018.tech bgr1.mag
 ```
 
 <p align="center">
-  <img width="1000" height="500" src="/Postlayout/Mags/layout_img.JPG">
+  <img width="1000" height="500" src="/Postlayout2/Images/layout.JPG">
 </p>
 
  - **To run and view the post- layout waveforms**, type the following commands after above steps in terminal.
@@ -178,7 +178,7 @@ ngspice 1 -> source 1pl_tv.spice
 ```
 
  <p align="center">
-  <img width="800" height="500" src="/Images/Post_layout/1pl_tv.JPG">
+  <img width="800" height="500" src="/Postlayout2/Images/1tv.JPG">
 </p>
 
 - **To Plot Vref vs Vdd (2V to 4V) at Rload=100Mohms**, Type the following in Ngspice shell and press enter.
@@ -188,7 +188,7 @@ ngspice 1 -> source 2pl_vv.spice
 ```
 
 <p align="center">
-  <img width="800" height="500" src="/Images/Post_layout/2pl_vv.JPG"">
+  <img width="800" height="500" src="/Postlayout2/Images/2vv.JPG"">
 </p>
 
 - **To plot Temperature Co-efficient of Vref vs Temperature (-40 to 125C) at Rload=100Mohms**,  Type the following in Ngspice shell and press enter.
@@ -198,7 +198,7 @@ ngspice 1 -> source 3pl_tc.spice
 ```
 
 <p align="center">
-  <img width="800" height="500" src="/Images/Post_layout/3pl_tc.JPG"">
+  <img width="800" height="500" src="/Postlayout2/Images/3tc.JPG"">
 </p>
 
 
@@ -209,7 +209,7 @@ ngspice 1 -> source 4pl_vc.spice
 ```
 
 <p align="center">
-  <img width="800" height="500" src="/Images/Post_layout/4pl_vc.JPG"">
+  <img width="800" height="500" src="/Postlayout2/Images/4vc.JPG"">
 </p>
 
 - **To plot Start-up Votage variation with time using ramp signal**, Type the following in Ngspice shell and press enter.
@@ -219,7 +219,7 @@ ngspice 1 -> source 5pl_su.spice
 ```
 
 <p align="center">
-  <img width="800" height="500" src="/Images/Post_layout/5pl_su.JPG"">
+  <img width="800" height="500" src="/Postlayout2/Images/5su.JPG"">
 </p>
  
 ## Author
