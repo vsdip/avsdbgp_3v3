@@ -1,0 +1,119 @@
+magic
+tech scmos
+timestamp 1594489297
+<< nwell >>
+rect 19 3 75 63
+<< pdiffusion >>
+rect 37 39 57 43
+rect 37 27 41 39
+rect 53 27 57 39
+rect 37 23 57 27
+<< pdcontact >>
+rect 41 27 53 39
+<< psubstratepdiff >>
+rect 5 78 89 79
+rect 5 68 6 78
+rect 14 68 24 78
+rect 32 68 62 78
+rect 70 68 80 78
+rect 88 68 89 78
+rect 5 67 89 68
+rect 5 58 15 67
+rect 5 48 6 58
+rect 14 48 15 58
+rect 5 39 15 48
+rect 5 29 6 39
+rect 14 29 15 39
+rect 5 18 15 29
+rect 5 8 6 18
+rect 14 8 15 18
+rect 5 -1 15 8
+rect 79 58 89 67
+rect 79 48 80 58
+rect 88 48 89 58
+rect 79 39 89 48
+rect 79 29 80 39
+rect 88 29 89 39
+rect 79 18 89 29
+rect 79 8 80 18
+rect 88 8 89 18
+rect 79 -1 89 8
+rect 5 -2 89 -1
+rect 5 -12 6 -2
+rect 14 -12 24 -2
+rect 32 -12 43 -2
+rect 51 -12 63 -2
+rect 71 -12 80 -2
+rect 88 -12 89 -2
+rect 5 -13 89 -12
+<< nsubstratendiff >>
+rect 22 58 33 60
+rect 22 48 24 58
+rect 32 48 33 58
+rect 22 39 33 48
+rect 61 58 72 60
+rect 61 48 63 58
+rect 71 48 72 58
+rect 22 29 24 39
+rect 32 29 33 39
+rect 22 18 33 29
+rect 61 39 72 48
+rect 61 29 63 39
+rect 71 29 72 39
+rect 61 18 72 29
+rect 22 8 24 18
+rect 32 8 43 18
+rect 51 8 63 18
+rect 71 8 72 18
+rect 22 7 72 8
+<< psubstratepcontact >>
+rect 6 68 14 78
+rect 24 68 32 78
+rect 62 68 70 78
+rect 80 68 88 78
+rect 6 48 14 58
+rect 6 29 14 39
+rect 6 8 14 18
+rect 80 48 88 58
+rect 80 29 88 39
+rect 80 8 88 18
+rect 6 -12 14 -2
+rect 24 -12 32 -2
+rect 43 -12 51 -2
+rect 63 -12 71 -2
+rect 80 -12 88 -2
+<< nsubstratencontact >>
+rect 24 48 32 58
+rect 63 48 71 58
+rect 24 29 32 39
+rect 63 29 71 39
+rect 24 8 32 18
+rect 43 8 51 18
+rect 63 8 71 18
+<< metal1 >>
+rect 14 68 24 78
+rect 6 58 14 68
+rect 6 39 14 48
+rect 6 18 14 29
+rect 6 -2 14 8
+rect 24 39 32 48
+rect 24 18 32 29
+rect 41 39 53 79
+rect 70 68 80 78
+rect 80 58 88 68
+rect 63 39 71 48
+rect 63 18 71 29
+rect 32 8 43 18
+rect 51 8 63 18
+rect 24 -2 71 8
+rect 80 39 88 48
+rect 80 18 88 29
+rect 80 -2 88 8
+rect 14 -12 24 -2
+rect 32 -12 43 -2
+rect 51 -12 63 -2
+rect 71 -12 80 -2
+<< labels >>
+rlabel pdcontact 47 33 47 33 1 e
+rlabel metal1 52 -7 52 -7 1 b
+<< end >>

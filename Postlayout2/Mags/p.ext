@@ -1,0 +1,9 @@
+timestamp 1594489297
+version 8.3
+tech scmos
+style TSMC0.18um(tsmc18)from:t11b
+scale 1000 1 10
+resistclasses 6700 7500 929000 929000 1 7700 7700 80 80 80 70 70 40
+node "e" 8 213.588 37 23 pdif 0 0 400 80 0 0 0 0 0 0 0 0 0 0 624 128 0 0 0 0 0 0 0 0 0 0
+substrate "b" 0 0 19 3 nw 1474 290 3376 616 3360 232 0 0 0 0 0 0 0 0 4040 776 0 0 0 0 0 0 0 0 0 0
+device bjt PNP 19 3 20 4 64 0 "b" "b" 128 0 "e" 0 0
