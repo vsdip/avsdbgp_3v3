@@ -237,8 +237,8 @@ ngspice 1 -> source 5pl_su.spice
 - Saroj Rout, Associate Professor & Chief Mentor of VLSI Center of Excellence SIT, Bhubaneswar, India
 - Santunu Sarangi, Asst. Professor, SIT, Bhubaneswar, India
 - Tim Edwards, Senior Vice President of Analog and Design at efabless corporation
-- Sheryl Serrao, Undergraduate Student, Mumbai University sherylcorina@gmail.com
-- YALAMANCHILI VAHINI M.tech Embedded Systems, NIT Jamshedpur vahini5398@gmail.com
+- Sheryl Serrao, Undergraduate Student, Mumbai University
+- YALAMANCHILI VAHINI M.tech Embedded Systems, NIT Jamshedpur 
 
 Contact Information
 ===================================
